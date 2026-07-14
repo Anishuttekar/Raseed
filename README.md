@@ -34,7 +34,7 @@ Powered by **machine learning** and **generative AI**, it transforms raw transac
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/AryamanRoy/Raseed-FinanceAI.git
+git clone [https://github.com/Anishuttekar/Raseed.git]
 cd Raseed-FinanceAI
 ```
 
